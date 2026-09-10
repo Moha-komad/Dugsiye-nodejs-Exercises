@@ -1,0 +1,19 @@
+{
+  "name": "exercise-2",
+  "version": "1.0.0",
+  "description": "Books API with Mongoose CRUD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.2.1",
+    "mongoose": "^8.9.5"
+  }
+}
